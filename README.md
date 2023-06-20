@@ -1,6 +1,6 @@
 # learning-python
-Hello! This is my journey of studying Python and machine learning. I am following the Python Engineer's guide at https://www.youtube.com/watch?v=wtolixa9XTg&source_ve_path=OTY3MTQ&feature=emb_imp_woyt.  
-         \
+Hello! This is my journey of studying Python and machine learning. I am following the Python Engineer's guide at https://www.youtube.com/watch?v=wtolixa9XTg&source_ve_path=OTY3MTQ&feature=emb_imp_woyt.
+	
 ## 6/14/2023 - Started Multivariable Calculus on Khanacademy
 6/15/2023 - Finished Unit 1 of Multivariable Calculus
 6/17/2023 - Paused halfway through Unit 2 of Multivariable Calculus to switch to Python
