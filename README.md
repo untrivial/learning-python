@@ -12,7 +12,7 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 
 ### 6/19/2023 - Started Python Engineer's Numpy Crash Course (1 hr)
 6/19/2023 - Finished Python Engineer's Numpy Crash Course; need to learn more linear algebra (esp eigenvalues & eigenvectors)
-6/20/2023 - Created this repo and uploaded code (much of the code is from Python Engineer)
+6/20/2023 - Created this repo and uploaded code
 ### 6/20/2023 - Started Pandas Tutorial (1 hr)
 6/23/2023 - Finished Pandas Tutorial
 ### 6/23/2023 - Started Matplotlib Tutorial (1.5 hrs)
