@@ -15,4 +15,4 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 6/20/2023 - Created this repo and uploaded code
 ### 6/20/2023 - Started Pandas Tutorial (1 hr)
 6/23/2023 - Finished Pandas Tutorial
-### 6/23/2023 - Started Matplotlib Tutorial (1.5 hrs)
+### 6/23/2023 - Started Educative's Data Structures and Algorithms in Python Course
