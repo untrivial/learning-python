@@ -17,3 +17,4 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 6/23/2023 - Finished Pandas Tutorial
 ### 6/23/2023 - Started Educative's Data Structures and Algorithms in Python Course
 7/2/2023 - Learned and added some basic web-related scripts
+### 7/3/2023 - Started Artificial Intelligence: A Modern Approach (4th ed) by Russell and Norvig
