@@ -164,4 +164,31 @@ class CircularLinkedList:
             return False
         else:
             return False
-        
+    
+    def remove_duplicates(self):
+        cur = self.head
+        seen = dict()
+        while cur:
+            if cur.data not in seen:
+                seen[cur.data] = 1
+                cur = cur.next
+            else:
+                nxt = cur.next
+                self.delete_node(cur)
+                cur = nxt
+    
+    def pairs_with_sum(self, sum_val):
+        if self.head and self.head.next:
+            cur = self.head
+            front = None
+            pairs = list()
+            while cur:
+                front = cur.next
+                while front:
+                    if ((cur.data + front.data) == sum_val):
+                        pairs.append("(" + str(cur.data) + "," + str(front.data) + ")")
+                    front = front.next
+                cur = cur.next
+            return pairs
+        else:
+            return []
