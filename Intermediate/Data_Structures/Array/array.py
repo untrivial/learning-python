@@ -64,3 +64,58 @@ def two_sum(A, target):
         else:
             j -= 1
     return False
+
+
+# Assign tasks to workers so that the time it takes to complete all 
+# the tasks is minimized given a count of workers and an array where 
+# each element indicates the duration of a task.
+# Each worker must work on exactly two tasks.
+
+def optimal_task_assignment(A):
+    A = sorted(A)
+    for i in range(len(A)//2):
+        print(A[i], A[~i])
+
+
+# Given two sorted arrays, A and B, determine their intersection.
+# What elements are common to A and B?
+
+def intersect_sorted_array(A, B):
+    i = 0
+    j = 0
+    intersection = []
+
+    while i < len(A) and j < len(B):
+        if A[i] == B[j]:
+            if i == 0 or A[i] != A[i-1]:
+                intersection.appendA(A[i])
+            i += 1
+            j += 1
+        elif A[i] < B[j]:
+            i += 1
+        else:
+            j += 1
+    return intersection
+
+
+# Given an array of numbers consisting of daily stock prices, 
+# calculate the maximum amount of profit that can be made 
+# from buying on one day and selling on another.
+
+# Brute Force O(n^2) time
+def buy_and_sell_stock_once_brute(prices):
+    maximum = 0
+    for i in range(len(prices) - 1):
+        for j in range(i, len(prices)):
+            maximum = max(maximum, prices[j] - prices[i])
+    return maximum
+
+# Min/Max O(n) time 
+def buy_and_sell_stock_once_minmax(prices):
+    minimum = 0
+    max_profit = 0
+    for price in prices:
+        minimum = min(minimum, price)
+        cur_profit = price - minimum
+        max_profit = max(max_profit, cur_profit)
+    return max_profit
