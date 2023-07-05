@@ -23,6 +23,8 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 
 7/2/2023 - Learned and added some basic web-related scripts
 
-### 7/3/2023 - Started Artificial Intelligence: A Modern Approach (4th ed) by Russell and Norvig
+7/3/2023 - Got the textbook Artificial Intelligence: A Modern Approach (4th ed) by Russell and Norvig
 
 7/3/2023 - Added web crawler scripts
+
+### 7/4/2023 - Started Supervised Machine Learning: Regression and Classification on Coursera
