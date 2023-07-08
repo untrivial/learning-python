@@ -157,13 +157,11 @@ def find_cyclic_shift(A):
     left = 0
     right = len(A) - 1
 
-    while left <= right:
+    while left < right:
         mid = (left + right) // 2
 
-        if A[mid - 1] > A[mid]:
-            return A[mid]
-        elif A[left] > A[mid]:
-            right = mid - 1
-        elif A[right] < A[mid]:
+        if A[mid] > A[right]:
             left = mid + 1
-    return mid
+        else:
+            right = mid
+    return left
