@@ -29,3 +29,5 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 7/3/2023 - Added web crawler scripts
 
 ### 7/4/2023 - Started Supervised Machine Learning: Regression and Classification on Coursera
+
+### 7/12/2023 - Made a Kaggle account! https://www.kaggle.com/untrivial
