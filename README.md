@@ -32,3 +32,5 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 * 7/12/2023 - Finished Andrew Ng's Supervised Machine Learning: Regression and Classification on Coursera
 
 ### 7/12/2023 - Made a Kaggle account! https://www.kaggle.com/untrivial
+
+### 7/23/2023 - Putting all my CS notes into Obsidian for PKM
