@@ -34,3 +34,5 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 ### 7/12/2023 - Made a Kaggle account! https://www.kaggle.com/untrivial
 
 ### 7/23/2023 - Putting all my CS notes into Obsidian for PKM
+
+### 7/23/2023 - Started Learn Flask for Python - Full Tutorial by freeCodeCamp.org
