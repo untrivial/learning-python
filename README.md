@@ -35,4 +35,4 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 
 ### 7/23/2023 - Putting all my CS notes into Obsidian for PKM
 
-### 7/23/2023 - Started Learn Flask for Python - Full Tutorial by freeCodeCamp.org
+### 8/01/2023 - Started LeetCode 75, Python3
