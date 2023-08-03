@@ -1,5 +1,5 @@
 # sol 3 (gcd method)
-import math
+from math import gcd
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
         if ''.join(str1, str2) == ''.join(str2, str1):
@@ -12,7 +12,7 @@ class Solution:
 import math
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
-        tup1 = (str1, str2)
+        tup1 = (str1, str2) 
         tup2 = (str2, str1)
         if ''.join(tup1) == ''.join(tup2):
             return str1[:math.gcd(len(str1),len(str2))]
