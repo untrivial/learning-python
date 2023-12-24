@@ -1,6 +1,6 @@
 # learning-python
-Hello! This is my journey of studying Python and machine learning. I am following the Python Engineer's guide (with some detours) at https://www.youtube.com/watch?v=wtolixa9XTg&source_ve_path=OTY3MTQ&feature=emb_imp_woyt.
-	
+Hello! This is my journey of studying Python and machine learning. 
+
 ### 6/14/2023 - Started Multivariable Calculus on Khanacademy
 * 6/15/2023 - Finished Unit 1 of Multivariable Calculus  
 * 6/17/2023 - Paused halfway through Unit 2 of Multivariable Calculus to switch to Python
@@ -36,3 +36,5 @@ Hello! This is my journey of studying Python and machine learning. I am followin
 ### 7/23/2023 - Putting all my CS notes into Obsidian for PKM
 
 ### 8/01/2023 - Started LeetCode 75, Python3
+
+### 12/22/2023 – Began UMich Deep Learning for Computer Vision. Completed Multivariable Calculus (MATH 1410 @ UPenn).
