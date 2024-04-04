@@ -38,3 +38,7 @@ Hello! This is my journey of studying Python and machine learning.
 ### 8/01/2023 - Started LeetCode 75, Python3
 
 ### 12/22/2023 – Began UMich Deep Learning for Computer Vision. Completed Multivariable Calculus (MATH 1410 @ UPenn).
+* 1/18/2024 – Completed UMich Deep Learning for Computer Vision
+
+### 4/2/2024 – Numpy 100 problem set, first third
+* 4/3/2024 – Completed
